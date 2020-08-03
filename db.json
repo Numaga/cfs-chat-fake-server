@@ -1,9 +1,13 @@
 {
-  "id": "Jkd98fjH9LLe9w710csl",
-  "chats": ["hHRevnAoh4sDeRlmtD40"]
-},
-{
-  "id": "Lk978fjH93Le9w710D6s",
-  "chats": ["hHRevnAoh4sDeRlmtD40"]
-},
+  "users": [
+    {
+      "id": "Jkd98fjH9LLe9w710csl",
+      "chats": ["hHRevnAoh4sDeRlmtD40"]
+    },
+    {
+      "id": "Lk978fjH93Le9w710D6s",
+      "chats": ["hHRevnAoh4sDeRlmtD40"]
+    }
+  ]
+}
 
